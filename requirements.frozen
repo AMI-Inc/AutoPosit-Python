@@ -1,0 +1,6 @@
+fastapi==0.63.0
+pydantic==1.8.1
+mangum==0.10.0
+lat-lon-parser==1.2.0
+python-dateutil==2.8.1
+python-multipart==0.0.5
